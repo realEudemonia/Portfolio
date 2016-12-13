@@ -17,6 +17,12 @@ hr {
     border-bottom: 1px rgb(0,0,0.2);
 }
 
+img {
+    height: 500px;
+    width: 750px;
+    padding-bottom: 20px;
+ }
+
 .navbar{
     margin-bottom: 0;
 }
@@ -44,6 +50,21 @@ hr {
     text-align: center;
     background-color: #EEEEEE;
     font-family: SansSerif;
+}
+
+.bottomContainerDivider {
+    width: 400px;
+    border-top: 1px solid #1d2731;
+    border-bottom: 1px rgb(0,0,0.2);
+    margin: 10px auto;
+}
+
+.bottomContainerHeader {
+    color: #1d2731;
+}
+
+.inputForm {
+    float: left;
 }
 
 #topContainer{
