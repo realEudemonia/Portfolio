@@ -75,11 +75,19 @@ p {
     float: left;
 }
 
+.primary {
+    background-color: #0b3c5d;
+}
+
+.fa {
+    font-size: 300%;
+}
+
 #topContainer{
     background: url("https://images.unsplash.com/photo-1461770354136-8f58567b617a?dpr=1&auto=format&crop=entropy&fit=crop&w=1920&h=1280&q=80");
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat ;
+    background-repeat: no-repeat;
 }
 #content1 {
     text-align: center;
